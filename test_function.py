@@ -11,7 +11,7 @@ def test_subtract():
     assert subtract(2, 3) == -1
 
 def test_multiply():
-    assert multipy(5, 5) == 25
+    assert multiply(5, 5) == 25
 
 # uncomment the following test in step 11
 # def test_convert_fahrenheit_to_celsius():
